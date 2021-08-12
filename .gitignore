@@ -1,0 +1,7 @@
+/dist/
+/requirements.txt
+/build/
+/setup.py
+/EncodedStrings.egg-info/
+/.gitattributes
+/.dcignore

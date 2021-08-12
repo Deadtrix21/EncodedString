@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Encode",
+    name="EncodedStrings",
     version="0.0.1",
     author="NightMareDeadTrix",
     description="A utility for encoding strings",

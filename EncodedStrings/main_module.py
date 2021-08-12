@@ -1,4 +1,4 @@
-from Encode import SyncModule, AsyncModule
+from EncodedStrings import SyncModule, AsyncModule
 
 class Encoding:
     def __init__(self):
